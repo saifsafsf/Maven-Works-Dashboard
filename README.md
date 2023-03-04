@@ -8,5 +8,6 @@ To actually visit the dashboard & interact with it, please change the filepath t
 
 ## References
 https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
+
 This project was discussed as a bonus project in the course "Microsoft Power BI Desktop for Business Intelligence" by Maven Analytics on Udemy.
 The dataset was also provided in the mentioned course.
